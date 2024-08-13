@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@chakra-ui/styled-system": "^2.6.1",
+    "@sitecore-feaas/clientside": "^0.1.51"
+  }
+}

@@ -1,0 +1,38 @@
+import { AccessToken, Auth, Tokens } from 'ordercloud-javascript-sdk';
+import { clearProductList } from '../ocProductList';
+import { createOcAsyncThunk, OcThrottle } from '../ocReduxHelpers';
+import { clearUser, getUser } from '../ocUser';
+import { clearCurrentOrder } from '../ocCurrentOrder';
+import { cleanProductCache } from '../ocProductCache';
+
+const logoutThrottle: OcThrottle = {
+  location: 'ocAuth',
+  property: 'loading',
+};
+
+const logout = createOcAsyncThunk<AccessToken | undefined>(
+  'ocAuth/logout',
+  async (_, thunkAPI) => {
+    const { ocConfig } = thunkAPI.getState();
+    if (!ocConfig.value) {
+      throw new Error('OrderCloud Provider was not properly configured');
+    }
+
+    thunkAPI.dispatch(clearUser());
+    thunkAPI.dispatch(clearProductList());
+    thunkAPI.dispatch(cleanProductCache());
+    thunkAPI.dispatch(clearCurrentOrder());
+
+    Tokens.RemoveAccessToken();
+    Tokens.RemoveRefreshToken();
+
+    const response = await Auth.Anonymous(ocConfig.value.clientId, ocConfig.value.scope);
+    Tokens.SetAccessToken(response.access_token);
+    Tokens.SetRefreshToken(response.refresh_token);
+    thunkAPI.dispatch(getUser());
+    return response;
+  },
+  logoutThrottle
+);
+
+export default logout;
