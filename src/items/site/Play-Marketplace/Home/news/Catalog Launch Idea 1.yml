@@ -1,0 +1,49 @@
+﻿---
+ID: "015f1a4d-897e-484c-a935-96afc6441db7"
+Parent: "9a1e1999-213a-4960-81df-b083568009c1"
+Template: "3b9d629c-1437-4f60-b774-02fd6e8ecf3e"
+Path: "/sitecore/content/Order-Cloud-Buyer-Business/Play-Marketplace/Home/news/Catalog Launch Idea 1"
+SharedFields:
+- ID: "9b0343a9-9f69-4e0f-a059-9215bc8fe422"
+  Hint: EntityIdentifier
+  Value: XEjaiwbjQhiC_adLzDdUjw
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{ABCC836A-2164-41D6-8906-890202A2F5D2}" />
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Catalog Launch Idea 1
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240319T204053Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Catalog Launch Idea 1
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "7640c657-781a-4fef-8afe-7a9fdf65710f"
+      Hint: Title
+      Value: Catalog Launch Idea 1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e9676f0f-4a8d-4e89-a49c-4e14f16dfcb7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\TwdcCSa9f6
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240813T192554Z

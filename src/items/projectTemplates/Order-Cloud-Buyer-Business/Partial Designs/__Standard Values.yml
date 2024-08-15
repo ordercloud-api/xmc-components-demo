@@ -1,0 +1,37 @@
+﻿---
+ID: "ce11a0af-b9cb-40ae-ab4b-3fbdb6969a9d"
+Parent: "a256e98f-32be-4e8c-b948-a8d0f85ea385"
+Template: "a256e98f-32be-4e8c-b948-a8d0f85ea385"
+Path: "/sitecore/templates/Project/Order-Cloud-Buyer-Business/Partial Designs/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {96AC31AD-4AF1-4F1F-AA45-2CA091168DAE}
+    {FD2059FD-6043-4DFE-8C04-E2437CE87634}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230802T212059Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\George Haeger
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\George Haeger
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "093d3595-4dc2-4486-ad6a-e2536c822f2a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\George Haeger
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230802T212101Z

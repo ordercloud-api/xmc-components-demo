@@ -1,0 +1,42 @@
+﻿---
+ID: "45ee259f-8b77-43f9-af8a-ed02852306ec"
+Parent: "9b7cbcce-7ced-44e2-8fed-b952341f1143"
+Template: "ec494725-c89d-488c-86fe-252a08b53d01"
+Path: "/sitecore/content/Order-Cloud-Buyer-Business/Play-Marketplace/Home/landing-pages"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{68D169D0-EF44-4B9A-8696-715D1101F0C5}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240213T183714Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "landing-pages"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Scott Mulligan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Scott Mulligan
+    - ID: "7640c657-781a-4fef-8afe-7a9fdf65710f"
+      Hint: Title
+      Value: "landing-pages"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "85c7771c-78dc-4945-b539-073ab4cf1135"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\TwdcCSa9f6
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240813T190820Z

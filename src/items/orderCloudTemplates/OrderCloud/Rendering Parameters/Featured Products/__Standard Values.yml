@@ -1,0 +1,27 @@
+﻿---
+ID: "64ae70f2-1e41-4b62-b1f2-b1c62dab283e"
+Parent: "76067ed9-55f6-4ccf-8630-9124a8c4b1e8"
+Template: "76067ed9-55f6-4ccf-8630-9124a8c4b1e8"
+Path: /sitecore/templates/Feature/OrderCloud/Rendering Parameters/Featured Products/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5a336b55-a4e2-47ec-941c-333179fe9fa4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\geh@sitecore.net
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221117T204523Z

@@ -1,0 +1,123 @@
+﻿---
+ID: "0eff6117-5661-4f74-99fa-2986ba303ce3"
+Parent: "b196712d-2f76-410b-96db-58a96fbc3dc9"
+Template: "f96b812a-96e1-4302-97f3-814643932eec"
+Path: "/sitecore/content/Order-Cloud-Buyer-Business/Play-Marketplace/Data/Register Data"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0954e124-befc-4686-a386-108780303953"
+      Hint: Phone
+      Value: "Phone Number:"
+    - ID: "0d4d90c1-65cc-4e22-b202-f70bf62c340d"
+      Hint: AddressWaterMark
+      Value: Enter address
+    - ID: "1b38ee02-6f51-4a5b-b00d-fdb736639e4e"
+      Hint: State
+      Value: "State:"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230817T175923Z
+    - ID: "2da1dc7e-5a64-4322-a4a1-42138fd7d44f"
+      Hint: AddressTwo
+      Value: "Address Two:"
+    - ID: "3c9919c3-4ea4-4a21-a105-337073936bb2"
+      Hint: CountryWaterMark
+      Value: Enter country
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{C55B483C-EA7F-4E76-A066-985F7D9396CA}"
+    - ID: "4536cf27-04cd-4734-a506-1d0661af1d6e"
+      Hint: AddressTwoWaterMark
+      Value: Enter address two
+    - ID: "4dd83401-edce-468a-985e-8cecfff924d9"
+      Hint: Title
+      Value: Register
+    - ID: "4de4eb98-d6a8-4668-88e1-6ed306e59645"
+      Hint: UserName
+      Value: "User Name:"
+    - ID: "500e2602-32c9-4720-b4e0-aa17fe5483eb"
+      Hint: PostalCode
+      Value: "Postal Code:"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\George Haeger
+    - ID: "57b057ca-d2e6-404e-b3bb-62b256658ab9"
+      Hint: LastNameWaterMark
+      Value: Enter last name
+    - ID: "5aca4281-6089-44da-8efc-d18cdd4ca61e"
+      Hint: PhoneWaterMark
+      Value: Enter phone number
+    - ID: "5bde145c-41b9-4f36-99a5-11af3446d80f"
+      Hint: ShowAdditionalFields
+      Value: 1
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\George Haeger
+    - ID: "65761c94-718c-4fad-bf2d-0733b373b66e"
+      Hint: PasswordWaterMark
+      Value: Enter password
+    - ID: "76883b52-0f58-4e00-9d0c-6e4a3f4c5093"
+      Hint: SubmitButton
+      Value: |
+        <link class="" querystring="" id="{9B7CBCCE-7CED-44E2-8FED-B952341F1143}" anchor="" target="" title="Register" linktype="internal" text="Register" url="/Order-Cloud-Buyer-Business/Play-Marketplace/Home" />
+    - ID: "775db81b-f185-4fc2-9f29-18bcf68d3b80"
+      Hint: CityWaterMark
+      Value: Enter city
+    - ID: "7b23834f-f7a4-4b4a-a614-d27e838454f3"
+      Hint: LastName
+      Value: "Last Name:"
+    - ID: "80909da0-a772-40a6-b3ba-e5848a831f8d"
+      Hint: UserNameWaterMark
+      Value: Enter user name
+    - ID: "85f0928b-de5f-411f-beec-702694f6413e"
+      Hint: Country
+      Value: "Country:"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cd6c80a1-d9af-48ab-8477-4379019b2b62"
+    - ID: "91c5c123-90e7-419f-a56a-3249f852d47d"
+      Hint: Address
+      Value: "Address:"
+    - ID: "95c1bacd-126b-4347-b585-85219d4674b0"
+      Hint: AccountTitle
+      Value: "Required fields:"
+    - ID: "a1927250-87ff-46c0-a5c0-c6d169809e4c"
+      Hint: ErrorMessage
+      Value: Your user name and/or password is not valid.
+    - ID: "a8df5ac0-64f6-4f60-a495-edf3e17bb65c"
+      Hint: StateWaterMark
+      Value: Enter state
+    - ID: "a9635e44-9158-4d0e-b976-89f094285840"
+      Hint: City
+      Value: "City:"
+    - ID: "b328f93b-8ef6-491e-a44c-26d918b0b78e"
+      Hint: FirstName
+      Value: "First name:"
+    - ID: "b6c84cf8-45e1-4da4-93e2-146adac79d06"
+      Hint: AdditionalTitle
+      Value: Optional Fields
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\George Haeger
+    - ID: "ccc4f780-b0ca-4a2c-b187-297ca025ed9e"
+      Hint: FirstNameWaterMark
+      Value: Enter first name
+    - ID: "d3ad8818-38a2-4e47-9c2c-644b810fa081"
+      Hint: PostalCodeWaterMark
+      Value: Enter postal code
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240202T181806Z
+    - ID: "fe60c5dd-0b54-4a42-aeb5-992e39c2a495"
+      Hint: Password
+      Value: "Password:"

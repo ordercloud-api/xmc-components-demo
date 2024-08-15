@@ -1,0 +1,96 @@
+﻿---
+ID: "5a64653b-3d1a-47de-b4ef-28c593e55275"
+Parent: "57429d5b-25cb-4ca9-acb8-4b269bddd51e"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: "/sitecore/content/Order-Cloud-Buyer-Business/Play-Marketplace/Presentation/Partial Designs/footer-static"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: "footer-static"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{03B6924F-0021-475D-B8CF-85CF69B3ABF7}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3CEF2A2A-E526-4FCC-AF60-3D4B5DA7AD25}"
+              p:before="*"
+              s:ds="{71140A36-34F3-4EE8-9A22-8D5F95A31176}"
+              s:id="{4956263D-1195-4D6E-931B-800EA625FF6F}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B271B2A11-65EB-41DC-AD49-B76FC6B05086%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+              s:ph="/headless-footer/footer-policies-navigation-0-1"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{863A2742-CD98-43E7-94A3-AAA639E16434}"
+              p:after="r[@uid='{3CEF2A2A-E526-4FCC-AF60-3D4B5DA7AD25}']"
+              s:ds="{13A41950-54D3-4A7D-9F97-42F00E2E572D}"
+              s:id="{4956263D-1195-4D6E-931B-800EA625FF6F}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B271B2A11-65EB-41DC-AD49-B76FC6B05086%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="/headless-footer/footer-my-account-navigation-0-1"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{1F51697B-ABFF-48DC-8333-685376E92123}"
+              p:after="r[@uid='{863A2742-CD98-43E7-94A3-AAA639E16434}']"
+              s:ds="{FBD1A6B7-1F24-4C8F-B1F3-5160E4AEAD93}"
+              s:id="{4956263D-1195-4D6E-931B-800EA625FF6F}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B271B2A11-65EB-41DC-AD49-B76FC6B05086%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="/headless-footer/footer-top-categories-navigation-0-1"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{30B3017B-034A-41E2-A8A3-58E78F6F3533}"
+              p:after="r[@uid='{1F51697B-ABFF-48DC-8333-685376E92123}']"
+              s:ds="{5300C716-D74B-457F-8FF4-97E4F694FA06}"
+              s:id="{4956263D-1195-4D6E-931B-800EA625FF6F}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B271B2A11-65EB-41DC-AD49-B76FC6B05086%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="/headless-footer/footer-about-us-navigation-0-1"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{B806B4C8-DD59-45F5-97F8-A7EB352CA058}"
+              p:after="r[@uid='{30B3017B-034A-41E2-A8A3-58E78F6F3533}']"
+              s:ds="local:/Data/Image 1"
+              s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BEE9B49AE-DC8B-4E34-A1F7-5CC71EA0EDAF%7D&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-footer/footer-logo-0-1" />
+            <r
+              uid="{F2F621BE-1A57-4310-9FE8-D84F2FD559A5}"
+              p:after="*[1=2]"
+              s:id="{CC14AE6D-E7FB-4CD9-8578-7DD6795AAFDB}"
+              s:par="GridParameters&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-footer" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240202T190926Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\George Haeger
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\George Haeger
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f25032aa-7816-445c-a2d7-bea96ad70baa"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\George Haeger
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240202T194208Z

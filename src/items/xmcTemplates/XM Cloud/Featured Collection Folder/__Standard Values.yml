@@ -1,0 +1,37 @@
+﻿---
+ID: "0646c7fb-f4f8-4639-ad38-c6cf40d6151f"
+Parent: "6c282133-1439-4643-af31-186692fb92ee"
+Template: "6c282133-1439-4643-af31-186692fb92ee"
+Path: /sitecore/templates/Feature/XM Cloud/Featured Collection Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {24FD10E0-4778-4921-9875-09A389E63CDA}
+    {8FFE81CB-E8C4-4A4A-AE27-56FA4D8F7EE0}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230530T185839Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\O3rvvRLsLy
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\O3rvvRLsLy
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b0922d8c-4b68-4ddc-bd78-0ac4dfeabe72"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\George Haeger
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230814T201236Z

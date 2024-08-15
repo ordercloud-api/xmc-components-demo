@@ -1,0 +1,56 @@
+﻿---
+ID: "d1f2ece7-43e3-4ecd-bd08-bf571273e0f4"
+Parent: "9b7cbcce-7ced-44e2-8fed-b952341f1143"
+Template: "ec494725-c89d-488c-86fe-252a08b53d01"
+Path: "/sitecore/content/Order-Cloud-Buyer-Business/Play-Marketplace/Home/New page"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{218C09FE-A7FF-40EB-9311-A37AC003A2BB}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{BDC8BF30-1EA8-4678-B7EB-6C0A24532BDF}" />
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Sample page
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1c2db008-3751-402e-ba49-d2d5e3e18645"
+      Hint: Content
+      Value: |
+        <span class="ck-content"><p>Lorem ipsum</p></span>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231103T100154Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: New page
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Jonathan Rauner
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Jonathan Rauner
+    - ID: "7640c657-781a-4fef-8afe-7a9fdf65710f"
+      Hint: Title
+      Value: Example Page Title
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "75669d8a-c812-4a53-8f6c-00e25c7b1dd2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\TwdcCSa9f6
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240813T190928Z

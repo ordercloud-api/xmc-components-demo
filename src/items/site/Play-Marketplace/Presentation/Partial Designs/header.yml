@@ -1,0 +1,195 @@
+﻿---
+ID: "ed6d06a1-f364-484b-9d29-a9c6a6c25125"
+Parent: "57429d5b-25cb-4ca9-acb8-4b269bddd51e"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: "/sitecore/content/Order-Cloud-Buyer-Business/Play-Marketplace/Presentation/Partial Designs/header"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: header
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{B3E395D3-5AAA-4D39-94AF-FF2E2660CB18}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{238669A8-8F6A-4A5E-A825-8B76D9A0C1B4}"
+              p:before="*"
+              s:ds=""
+              s:id="{09364C68-4561-4483-B1E4-90C66575415C}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=26"
+              s:ph="/headless-header/chakra-container-14/vstack-15/vstack-23"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{76475EEC-F290-4906-8D9A-B226A32FB80E}"
+              p:after="r[@uid='{238669A8-8F6A-4A5E-A825-8B76D9A0C1B4}']"
+              s:ds="{54FF2A33-263E-4D10-8980-8D335F8F5CDB}"
+              s:id="{2E3A0D8A-37E4-4707-8D0B-094824489F57}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;Title&amp;SearchTerm&amp;CategoryID&amp;RenderingIdentifier&amp;CSSStyles=maxW%3A%20250px&amp;DynamicPlaceholderId=28"
+              s:ph="/headless-header/chakra-container-14/vstack-15/vstack-23/hstack-26"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{BF5E4AA6-2CF5-474E-B24A-9CD4B9D680FA}"
+              p:after="r[@uid='{76475EEC-F290-4906-8D9A-B226A32FB80E}']"
+              s:ds="local:/Data/Image 3"
+              s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BEE9B49AE-DC8B-4E34-A1F7-5CC71EA0EDAF%7D&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="/headless-header/chakra-container-14/vstack-15/hstack-16/hstack-17" />
+            <r
+              uid="{46B7EFE8-0591-4D67-A1A0-3B6E541E0E26}"
+              p:after="r[@uid='{BF5E4AA6-2CF5-474E-B24A-9CD4B9D680FA}']"
+              s:ds="{2DD78364-1749-4631-9B11-8C66AE0AD8ED}"
+              s:id="{4956263D-1195-4D6E-931B-800EA625FF6F}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BC1603E3F-0489-4036-B7D2-A76523EF1D6B%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=27"
+              s:ph="/headless-header/chakra-container-14/vstack-15/vstack-23/hstack-26"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{EC340F8E-9786-4693-81BE-57767E8D3DEB}"
+              p:after="r[@uid='{46B7EFE8-0591-4D67-A1A0-3B6E541E0E26}']"
+              s:id="{49D399C2-8208-4156-9ED0-C9DF89713EB6}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=13"
+              s:ph="headless-header" />
+            <r
+              uid="{083A3D5D-BFED-47B5-9495-66221240B7D9}"
+              p:after="r[@uid='{EC340F8E-9786-4693-81BE-57767E8D3DEB}']"
+              s:ds="{C38D2252-220F-49A7-A6AB-9BB44CA67C4E}"
+              s:id="{1D27FB78-EE11-4554-BCBC-E73870BC22F7}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;Title&amp;Icon&amp;CallToAction&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=12"
+              s:ph="/headless-header/chakra-container-14/vstack-15/hstack-16/hstack-22"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{305ED5D7-FFE3-4D89-8888-350984D05989}"
+              p:after="r[@uid='{083A3D5D-BFED-47B5-9495-66221240B7D9}']"
+              s:ds="{F987AEAE-E3A9-40CE-8364-564C4099ED15}"
+              s:id="{23A918E0-543A-43CB-8158-94475E4B3635}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=10"
+              s:ph="/headless-header/chakra-container-14/vstack-15/hstack-16/hstack-21"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{A2C81C25-E757-4227-8977-4420FC0CF4FB}"
+              p:after="r[@uid='{305ED5D7-FFE3-4D89-8888-350984D05989}']"
+              s:ds="{94C27864-C3F2-4C11-8C5D-A2BA08761ED1}"
+              s:id="{8EDC7B5C-205C-48EA-A56F-FEA0C4BFA270}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;LoginTitle&amp;LoginIcon&amp;LoginCallToAction&amp;LogOutTitle&amp;LogOutIcon&amp;LogOutCallToAction&amp;MyProfileTitle&amp;MyProfileIcon&amp;MyProfileCallToAction&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
+              s:ph="/headless-header/chakra-container-14/vstack-15/hstack-16/hstack-20"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{C66A1A98-A71F-4E77-9FF4-B7EE86E24344}"
+              p:after="r[@uid='{A2C81C25-E757-4227-8977-4420FC0CF4FB}']"
+              s:ds=""
+              s:id="{FF5BC46F-BF50-40A7-9A1E-9D5C1A750713}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;BackgroundImage&amp;Title&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=19"
+              s:ph="/headless-header/chakra-container-14/vstack-15"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{5081B342-A2A3-4F3D-8B4C-A6B34C7D43FF}"
+              p:after="r[@uid='{C66A1A98-A71F-4E77-9FF4-B7EE86E24344}']"
+              s:ds=""
+              s:id="{09364C68-4561-4483-B1E4-90C66575415C}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles=maxW%3D350px&amp;DynamicPlaceholderId=17"
+              s:ph="/headless-header/chakra-container-14/vstack-15/hstack-16"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{8ABAE32E-B8EF-4393-9806-E76307703681}"
+              p:after="r[@uid='{5081B342-A2A3-4F3D-8B4C-A6B34C7D43FF}']"
+              s:ds=""
+              s:id="{09364C68-4561-4483-B1E4-90C66575415C}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles=width%3D100%25%7C%20maxW%3D700px%7C%20mr%3D35px%7C%20ml%3D35px&amp;DynamicPlaceholderId=18"
+              s:ph="/headless-header/chakra-container-14/vstack-15/hstack-16"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{484F065E-C48B-482D-BA8F-33372B59D0C8}"
+              p:after="r[@uid='{8ABAE32E-B8EF-4393-9806-E76307703681}']"
+              s:ds=""
+              s:id="{09364C68-4561-4483-B1E4-90C66575415C}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles=maxW%3D50px&amp;DynamicPlaceholderId=21"
+              s:ph="/headless-header/chakra-container-14/vstack-15/hstack-16"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{B2EB8314-6A7B-42C7-BDF4-11B3A943992D}"
+              p:after="r[@uid='{484F065E-C48B-482D-BA8F-33372B59D0C8}']"
+              s:ds=""
+              s:id="{09364C68-4561-4483-B1E4-90C66575415C}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles=maxW%3D50px&amp;DynamicPlaceholderId=22"
+              s:ph="/headless-header/chakra-container-14/vstack-15/hstack-16"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{E8954EFE-5A0C-4A19-9AB4-A1EEB2D4D979}"
+              p:after="r[@uid='{B2EB8314-6A7B-42C7-BDF4-11B3A943992D}']"
+              s:ds=""
+              s:id="{09364C68-4561-4483-B1E4-90C66575415C}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles=maxW%3D80px%7C%20mr%3D5px&amp;DynamicPlaceholderId=20"
+              s:ph="/headless-header/chakra-container-14/vstack-15/hstack-16"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{2358F04F-877B-4190-A1A5-5D22F88AA6B8}"
+              p:after="r[@uid='{E8954EFE-5A0C-4A19-9AB4-A1EEB2D4D979}']"
+              s:ds=""
+              s:id="{09364C68-4561-4483-B1E4-90C66575415C}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles=%20alignItems%3Dflex-end&amp;DynamicPlaceholderId=16"
+              s:ph="/headless-header/chakra-container-14/vstack-15"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{7070EE8D-5B47-4553-97A4-24F9D1E12D89}"
+              p:after="r[@uid='{2358F04F-877B-4190-A1A5-5D22F88AA6B8}']"
+              s:ds=""
+              s:id="{25DF6DD4-BE86-46EC-BA89-78A55BBAAF1C}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=23"
+              s:ph="/headless-header/chakra-container-14/vstack-15"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{4772C33A-8ED6-4301-BAEC-DCA9145560E6}"
+              p:after="r[@uid='{7070EE8D-5B47-4553-97A4-24F9D1E12D89}']"
+              s:ds=""
+              s:id="{25DF6DD4-BE86-46EC-BA89-78A55BBAAF1C}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles=maxW%3D1400px%7C%20pb%3D20px&amp;DynamicPlaceholderId=15"
+              s:ph="/headless-header/chakra-container-14"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{66176EEB-0A21-452A-A9E2-2AB99FEEFFCE}"
+              p:after="r[@uid='{4772C33A-8ED6-4301-BAEC-DCA9145560E6}']"
+              s:ds=""
+              s:id="{CACC1B37-8B52-44DD-BB4D-DB88DB517565}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles=maxW%3D100%25%7C%20pt%3D20px%7C%20pb%3D20px%7C%20mb%3D30px%7C%20shadow%3Dmd%7C%20bgGradient%3Dlinear%28to-b%2C%20%23dedede%2C%20%23fefefe%29%7C%20align%3Dcenter&amp;DynamicPlaceholderId=14"
+              s:ph="headless-header"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{A742EB03-4ED7-4C37-BA2B-C194170454E4}"
+              p:after="*[1=2]"
+              s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-header" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230807T182639Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\George Haeger
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\George Haeger
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6a331bb6-270e-4117-b9a0-2eecc0f073ba"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\George Haeger
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240222T013841Z

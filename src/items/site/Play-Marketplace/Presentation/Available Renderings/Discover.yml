@@ -1,0 +1,40 @@
+﻿---
+ID: "27d2d519-cc9d-491a-b28c-7594a90d244e"
+Parent: "f7b9b098-9c17-4707-b1be-2b53f95a550a"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: "/sitecore/content/Order-Cloud-Buyer-Business/Play-Marketplace/Presentation/Available Renderings/Discover"
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Value: |
+    {AF8FB9CE-91E1-4667-BC2B-15BD91CD1ACE}
+    {0CBBD0DC-9825-4A48-A332-75CE06CE096D}
+    {6C8B6608-E85E-442E-883A-D5A4C0352C87}
+    {2C3F4360-2AC0-4E29-A0B9-B848E8B12D17}
+    {289EA8A3-F612-4935-9350-D8DC8C2D2C2C}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230807T153931Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\George Haeger
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\George Haeger
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4db240d2-04bc-4d6a-aaf6-09109c560ee5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\George Haeger
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240203T172808Z

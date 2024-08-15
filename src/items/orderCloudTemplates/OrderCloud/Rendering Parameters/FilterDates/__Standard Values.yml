@@ -1,0 +1,31 @@
+﻿---
+ID: "c10e1b4f-8a10-495b-8aee-e56abbff6f0c"
+Parent: "d15b9d22-f99f-4fbb-8884-e08f6d2eeff6"
+Template: "d15b9d22-f99f-4fbb-8884-e08f6d2eeff6"
+Path: /sitecore/templates/Feature/OrderCloud/Rendering Parameters/FilterDates/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230606T143825Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\O3rvvRLsLy
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\O3rvvRLsLy
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1197e4d8-6e76-4292-9dd5-4344283b63c7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\O3rvvRLsLy
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230606T143825Z

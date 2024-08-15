@@ -1,0 +1,31 @@
+﻿---
+ID: "9ce5a734-3f90-46c6-9604-079e85f7a6e4"
+Parent: "39ec2a05-4de5-4d06-95c5-b569c0ad53a6"
+Template: "39ec2a05-4de5-4d06-95c5-b569c0ad53a6"
+Path: /sitecore/templates/Feature/OrderCloud/CheckoutOffScreen/__Standard Values
+SharedFields:
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8381a5a3-963a-4219-ab92-8d54b1b49192"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\O3rvvRLsLy
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230420T005202Z

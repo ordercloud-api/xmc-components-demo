@@ -1,0 +1,60 @@
+﻿---
+ID: "e2bac5a6-0215-446a-9d59-8f24dac86ea1"
+Parent: "da927e3a-7a96-4438-852e-b7436717d456"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/Project/Order-Cloud-Buyer-Business/Play-Marketplace/icon_member"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/348B64272AA1467EB18017F4D8F151F3.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 59
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "d98afb65-2b93-4fe2-a8ec-b08727e9431a"
+  Value: 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
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1579
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/jpeg
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: jpg
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 59 x 48
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 48
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230824T210908Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\George Haeger
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\George Haeger
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Icon member
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7474310c-edba-4cd7-975e-2ed245264039"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\George Haeger
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230824T210915Z

@@ -1,0 +1,39 @@
+﻿---
+ID: "0ae107ff-112d-48b6-b1d8-f608e2974eea"
+Parent: "c5d58451-4166-4730-a9f8-bdbe15027041"
+Template: "d885df8c-b2d6-4007-b34b-2bbafb527304"
+Path: "/sitecore/content/Order-Cloud-Buyer-Business/Play-Marketplace/Presentation/Partial Designs/footer/Data/Image 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230807T182905Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\George Haeger
+    - ID: "57caf172-ce57-4e48-b3a1-46f8aea71c08"
+      Hint: Image
+      Value: |
+        <image mediaid="{F960AF14-C623-43C4-B4FF-77F0FEBE941C}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\George Haeger
+    - ID: "75fbf1b1-e7c5-494b-9633-693909f79425"
+      Hint: TargetUrl
+      Value: |
+        <link class="" id="{9B7CBCCE-7CED-44E2-8FED-B952341F1143}" querystring="" anchor="" target="" title="Return home" linktype="internal" text="Return home" url="/Order-Cloud-Buyer-Business/Play-Marketplace/Home" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5ce54c33-719c-42bd-b9dc-9050ab2eaf92"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\George Haeger
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240202T181806Z

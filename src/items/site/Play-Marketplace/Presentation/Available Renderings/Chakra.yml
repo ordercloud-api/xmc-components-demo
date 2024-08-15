@@ -1,0 +1,45 @@
+﻿---
+ID: "f7492019-6806-43bd-b362-7e57c8fb51d9"
+Parent: "f7b9b098-9c17-4707-b1be-2b53f95a550a"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: "/sitecore/content/Order-Cloud-Buyer-Business/Play-Marketplace/Presentation/Available Renderings/Chakra"
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Value: |
+    {CACC1B37-8B52-44DD-BB4D-DB88DB517565}
+    {C4F05DDE-49DF-4A36-BAE6-6BFF5A98A870}
+    {309552A1-B927-4A38-A89F-933711264593}
+    {C2DECCE5-E154-46E5-A920-A5D41E2CDE5A}
+    {39AE1CFA-FA68-48EC-9F41-FBAFA19B0C09}
+    {09364C68-4561-4483-B1E4-90C66575415C}
+    {12EF8557-5AA7-47CD-A7AC-D1CDF96AE6A7}
+    {31C75B44-D096-476A-90E8-4D58017B3F2B}
+    {58AFB0C7-1A0B-46AF-8032-BC95DE19B9F2}
+    {25DF6DD4-BE86-46EC-BA89-78A55BBAAF1C}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230807T153901Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\George Haeger
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\George Haeger
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f4665754-8495-4eca-9773-fa78e8173caa"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\George Haeger
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240102T201946Z

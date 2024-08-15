@@ -1,0 +1,43 @@
+﻿---
+ID: "f7091715-689a-4478-8af2-22d108c831f8"
+Parent: "8a153de9-7d48-4a14-9573-b754ad6da49e"
+Template: "f59f3791-e717-4846-9820-b77bae9ce391"
+Path: "/sitecore/content/Order-Cloud-Buyer-Business/Play-Marketplace/Settings/Site Settings"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231116T234353Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\George Haeger
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\George Haeger
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ef139a9e-cb65-4813-a139-161c220f5eca"
+    - ID: "9d0e626a-0e00-401c-b38f-36866fc799ba"
+      Hint: OrderCloudScope
+      Value: Shopper,MeAddressAdmin,OrderAdmin,OverrideShipping,SpendingAccountAdmin,MeAdmin,MeCreditCardAdmin,MeSubscriptionAdmin,MeXpAdmin,PasswordReset,ProductFacetReader,SupplierAddressReader,SupplierReader,BuyerUserAdmin,ApprovalRuleAdmin,
+    - ID: "a5b97922-3012-43cc-a071-80985c516eec"
+      Hint: ShowInventory
+      Value: true
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\George Haeger
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240221T215802Z
+    - ID: "dcd8dc55-8294-47d7-be70-664def675f94"
+      Hint: OrderCloudAPIID
+      Value: "CA37B312-F5BC-46CE-A82E-056D4344FCD5"
+    - ID: "faa6d15c-97f2-4050-9fa8-e0fbd114b586"
+      Hint: XMCWebsiteTheme
+      Value: generictheme

@@ -1,0 +1,45 @@
+﻿---
+ID: "753e6695-7825-40a2-91a9-65a527c558db"
+Parent: "ec400e9d-00e3-4679-ab57-1ea6c1000771"
+Template: "dfed4457-d760-457a-bec1-c0dccdc44381"
+Path: "/sitecore/content/Order-Cloud-Buyer-Business/Play-Marketplace/Data/Promos/Interactive Displays"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Interactive Displays
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f66862d-a5e3-405f-8e3e-b787b4c39b12"
+      Hint: PromoText2
+      Value: Interactive Display for Education and Business
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240213T165528Z
+    - ID: "28079f3a-896b-4273-be5f-59d0ebb7cd7d"
+      Hint: PromoText
+      Value: Interactive Displays
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "71100e84-cc14-4e17-bd80-bb61afc3c32e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\TwdcCSa9f6
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240520T185050Z
+    - ID: "f94b9858-c439-4291-863b-757b536c8b65"
+      Hint: PromoIcon
+      Value: |
+        <image dam-id="77074" thumbnailsrc="https://forrester-wave.sitecoresandbox.cloud/api/public/content/af5944aed8564f06beaa618c5bac1990?v=bc71695e" src="https://forrester-wave.sitecoresandbox.cloud/api/public/content/1e3c5cdab89f469f98ba0f5542520db5?v=37584a01" mediaid="" dam-content-type="Image" alt="PC_Flip2_85inch_HERO_HD01_HOME-KV-CAROUSEL_DT.jpg" height="640" width="1440" />

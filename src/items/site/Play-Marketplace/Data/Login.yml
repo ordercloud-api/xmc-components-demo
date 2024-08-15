@@ -1,0 +1,69 @@
+﻿---
+ID: "c089b3ee-533c-4598-b728-f62725637acd"
+Parent: "b196712d-2f76-410b-96db-58a96fbc3dc9"
+Template: "0df3d361-d1b5-483b-9f15-132d9edbb4b0"
+Path: "/sitecore/content/Order-Cloud-Buyer-Business/Play-Marketplace/Data/Login"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0629ab5d-22d3-45a6-ba07-1d25680ca8a0"
+      Hint: StaySignedInMessage
+      Value: Remember me
+    - ID: "0925054d-c271-4bea-9ca7-0164f52a4154"
+      Hint: UserName
+      Value: User name
+    - ID: "0ce0006a-4d19-4091-9233-1c9953d5c7fb"
+      Hint: PasswordWaterMark
+      Value: Enter password
+    - ID: "2425653f-dc2f-43da-9989-c601f66fb324"
+      Hint: RegisterMessage
+      Value: |
+        <p>
+        Don't have an account?  <a href="register">Sign up now</a>
+        </p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230814T151141Z
+    - ID: "32476cc0-e92c-4b45-8f70-61f578f61563"
+      Hint: ErrorMessage
+      Value: "Something was wrong with your username or password!"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{C55B483C-EA7F-4E76-A066-985F7D9396CA}"
+    - ID: "46654b0a-f685-4758-b3be-6c774c3335d7"
+      Hint: UserNameWaterMark
+      Value: enter username
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\George Haeger
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\George Haeger
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9a790352-4363-4116-96bd-e1923e9edf39"
+    - ID: "9dff80df-b780-428f-b348-34a30a74250b"
+      Hint: Password
+      Value: Password
+    - ID: "a0f69812-1262-404c-b653-8b53d71410d1"
+      Hint: SubmitButton
+      Value: |
+        <link text="Sign in" linktype="javascript" url="" anchor="" title="Sign in" />
+    - ID: "a9eaa9d0-388b-4f9a-920d-4fa4f7277521"
+      Hint: Title
+      Value: Member Login
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\George Haeger
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230815T154211Z

@@ -1,0 +1,38 @@
+﻿---
+ID: "9c5545d4-4c51-4e8c-94ab-6cd48943baf4"
+Parent: "dd4be2fa-1b53-4b7f-8ce4-47ed7a2285fb"
+Template: "24fd10e0-4778-4921-9875-09a389e63cda"
+Path: "/sitecore/content/Order-Cloud-Buyer-Business/Play-Marketplace/Data/Featured Collection/hp icons"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230814T201049Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\George Haeger
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\George Haeger
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e1c0b50a-c61c-4f05-b5ec-953cef52a33c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\George Haeger
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240202T181649Z
+    - ID: "ee279ee1-a95b-4569-918d-e28f29bbd31f"
+      Hint: CollectionItems
+      Value: |
+        {9303C2F4-FF19-4618-9B34-9B1DF88C69AA}
+        {F831B018-9C74-4599-A594-168866FD5A01}
+        {933ADA7D-4ACF-447B-B278-D3DF645EBB3D}
+        {EAA89680-058C-4A51-9715-0B507287FCD4}

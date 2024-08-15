@@ -1,0 +1,131 @@
+{
+  "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "RenderingHost",
+  "items": {
+    "includes": [
+      {
+        "name": "chakraTemplates",
+        "path": "/sitecore/templates/Feature/Chakra",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "orderCloudTemplates",
+        "path": "/sitecore/templates/Feature/OrderCloud",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "xmcTemplates",
+        "path": "/sitecore/templates/Feature/XM Cloud",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "projectTemplateRoot",
+        "path": "/sitecore/templates/Project/Order-Cloud-Buyer-Business",
+        "scope": "SingleItem",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "projectTemplates",
+        "path": "/sitecore/templates/Project/Order-Cloud-Buyer-Business",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "projectMediaRoot",
+        "path": "/sitecore/Media Library/Project/Order-Cloud-Buyer-Business",
+        "scope": "SingleItem",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "projectMediaFolders",
+        "path": "/sitecore/Media Library/Project/Order-Cloud-Buyer-Business/Play-Marketplace",
+        "allowedPushOperations": "CreateOnly"
+      },
+      {
+        "name": "chakraRenderings",
+        "path": "/sitecore/Layout/Renderings/Feature/Chakra",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "orderCloudRenderings",
+        "path": "/sitecore/Layout/Renderings/Feature/OrderCloud",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "xmcRenderings",
+        "path": "/sitecore/Layout/Renderings/Feature/XM Cloud",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "projectRenderings",
+        "path": "/sitecore/Layout/Renderings/Project/Order-Cloud-Buyer-Business",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "chakraPlaceholderSettings",
+        "path": "/sitecore/layout/Placeholder Settings/Feature/Chakra",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "orderCloudPlaceholderSettings",
+        "path": "/sitecore/layout/Placeholder Settings/Feature/OrderCloud",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "projectPlaceholderSettings",
+        "path": "/sitecore/layout/Placeholder Settings/Project/Order-Cloud-Buyer-Business",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "tenantRoot",
+        "path": "/sitecore/content/Order-Cloud-Buyer-Business",
+        "scope": "SingleItem",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "site",
+        "path": "/sitecore/content/Order-Cloud-Buyer-Business/Play-Marketplace",
+        "rules": [
+          {
+            "path": "/home",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateOnly"
+          },
+          {
+            "path": "/Media",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateAndUpdate"
+          },
+          {
+            "path": "/Data",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateAndUpdate"
+          },
+          {
+            "path": "/Dictionary",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateOnly"
+          },
+          {
+            "path": "/Presentation",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateUpdateAndDelete"
+          },
+          {
+            "path": "/Settings/Site Grouping",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateOnly"
+          },
+          {
+            "path": "/Settings",
+            "scope": "ItemAndChildren",
+            "allowedPushOperations": "CreateAndUpdate"
+          },
+          {
+            "path": "*",
+            "scope": "Ignored"
+          }
+        ]
+      }
+    ]
+  }
+}

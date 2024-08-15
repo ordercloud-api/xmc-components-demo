@@ -1,0 +1,33 @@
+﻿---
+ID: "fd2a61ba-4e21-4f15-a96c-49124c0a446d"
+Parent: "71b071d4-1659-4c62-b360-0dfd9369d33f"
+Template: "71b071d4-1659-4c62-b360-0dfd9369d33f"
+Path: /sitecore/templates/Feature/OrderCloud/Featured Products Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {FCC6A53F-C939-4F54-94C4-90BBF8E7627B}
+    {71B071D4-1659-4C62-B360-0DFD9369D33F}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a7c589a5-a627-471e-9e85-5a0c4b2374c9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\George Haeger
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230807T175117Z

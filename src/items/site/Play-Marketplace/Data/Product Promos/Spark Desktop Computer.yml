@@ -1,0 +1,49 @@
+﻿---
+ID: "d6e9e6b8-4024-44d1-b942-454f0a3d89de"
+Parent: "36022b7d-4fca-45c2-a9c3-a6cad519d616"
+Template: "908ebf5f-89c6-44d9-ab88-5060aab272b6"
+Path: "/sitecore/content/Order-Cloud-Buyer-Business/Play-Marketplace/Data/Product Promos/Spark Desktop Computer"
+SharedFields:
+- ID: "9a6dfa05-d7b6-45e7-9d04-f281e9bd5e49"
+  Hint: BackgroundImage
+  Value: |
+    <image mediaid="{3DF9126F-B4FD-4FFD-B990-5DA6BD2E1CEA}" alt="Background image" height="" width="" hspace="" vspace="" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230808T122600Z
+    - ID: "3de42f9c-3e1d-4e9e-8e57-41b1dc22a785"
+      Hint: CallToAction
+      Value: |
+        <link text="Product Details" linktype="external" url="" anchor="" title="Product Details" target="" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{C55B483C-EA7F-4E76-A066-985F7D9396CA}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\George Haeger
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\George Haeger
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "785769a1-390a-4448-825c-b6f1d409c986"
+    - ID: "915457d3-2456-4f49-a1b9-0cbe81b56d94"
+      Hint: ProductID
+      Value: "6042239_XkSlK-cmUE-zScyczUAMZA"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\George Haeger
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240202T221122Z

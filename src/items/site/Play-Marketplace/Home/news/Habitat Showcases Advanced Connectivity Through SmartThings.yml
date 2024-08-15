@@ -1,0 +1,81 @@
+﻿---
+ID: "6851dff9-9ca0-4d04-be41-0fbe49076436"
+Parent: "9a1e1999-213a-4960-81df-b083568009c1"
+Template: "3b9d629c-1437-4f60-b774-02fd6e8ecf3e"
+Path: "/sitecore/content/Order-Cloud-Buyer-Business/Play-Marketplace/Home/news/Habitat Showcases Advanced Connectivity Through SmartThings"
+SharedFields:
+- ID: "9b0343a9-9f69-4e0f-a059-9215bc8fe422"
+  Hint: EntityIdentifier
+  Value: uZEh6BoFTiSKsjNt1d7ibQ
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{05CD9AE7-E213-4DA6-ABEF-A1004B34C168}" />
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Habitat Showcases Advanced Connectivity Through SmartThings
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{272BDCA7-EE2B-4A08-B093-13EA56598C0F}">
+              <p:da
+                name="ccb" />
+              <p:da
+                name="ds" />
+            </r>
+          </d>
+        </r>
+    - ID: "1c2db008-3751-402e-ba49-d2d5e3e18645"
+      Hint: Content
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240207T182203Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Habitat Showcases Advanced Connectivity Through SmartThings for Its B2B Displays at ISE 2024
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        default\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        default\Anonymous
+    - ID: "7640c657-781a-4fef-8afe-7a9fdf65710f"
+      Hint: Title
+      Value: Habitat Showcases Advanced Connectivity Through SmartThings
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ffc2fbf7-826f-4468-a35d-aa51d07e332a"
+    - ID: "9aedf49b-2028-4221-a010-988a868ca9ff"
+      Hint: Excerpt
+      Value: Lorem ipsum dolor sit amet
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\TwdcCSa9f6
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: "20240219T100002:638439336020000000Z"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240813T192604Z
+    - ID: "deded753-6e59-4781-af9b-42f12a57ac3a"
+      Hint: Image
+      Value: |
+        <image dam-id="75907" thumbnailsrc="https://forrester-wave.sitecoresandbox.cloud/api/public/content/ab6d32809f184e1d82483581e81a9a92?v=cf87e36d" src="https://forrester-wave.sitecoresandbox.cloud/api/public/content/8364c3bbf5ec438287e63909be780dfc?v=5b873d29" mediaid="" dam-content-type="Image" alt="ac850203-1296-4a51-90f2-489b969320c9.JPG" height="800" width="800" />

@@ -1,0 +1,55 @@
+﻿---
+ID: "8ab561c7-95f3-4c28-956d-a47050663f81"
+Parent: "ec400e9d-00e3-4679-ab57-1ea6c1000771"
+Template: "dfed4457-d760-457a-bec1-c0dccdc44381"
+Path: "/sitecore/content/Order-Cloud-Buyer-Business/Play-Marketplace/Data/Promos/Teaser - Test component"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f66862d-a5e3-405f-8e3e-b787b4c39b12"
+      Hint: PromoText2
+      Value: |
+        <p><span style="color: rgb(32, 33, 36);">Build Your Cyber Team</span></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230822T163707Z
+    - ID: "28079f3a-896b-4273-be5f-59d0ebb7cd7d"
+      Hint: PromoText
+      Value: |
+        <p><span style="color: rgb(32, 33, 36);">YOUR ORGANIZATION. SECURED.</span></p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\George Haeger
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\George Haeger
+    - ID: "739c6cc2-0031-463d-9599-13478fd50ee3"
+      Hint: PromoIcon2
+      Value: |
+        <image mediaid="3DF9126F-B4FD-4FFD-B990-5DA6BD2E1CEA" alt="Background image" height="" width="" hspace="" vspace="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d85b18fa-083d-4261-a7a3-65bc78c6e2cf"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\TwdcCSa9f6
+    - ID: "c6e604c3-5371-4e67-83df-a09a5ea66249"
+      Hint: PromoText3
+      Value: |
+        <p><span style="color: rgb(32, 33, 36);">ISC2 is ready to partner with you. Strengthen your cybersecurity team, from entry-level to the C-suite.</span></p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240520T185052Z
+    - ID: "ef24bed2-46ab-4d53-ad1a-1019935a4e89"
+      Hint: PromoLink
+      Value: |
+        <link class="primaryButton" querystring="" id="{76174191-D748-4627-9CD4-9DC0B39C9584}" anchor="" target="" title="Learn more" linktype="internal" text="Learn more" url="/Order-Cloud-Buyer-Business/Play-Marketplace/Home/gift-cards" />
+    - ID: "f94b9858-c439-4291-863b-757b536c8b65"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{6481E0D1-8717-4B20-A722-E7F3A4D057E7}" />

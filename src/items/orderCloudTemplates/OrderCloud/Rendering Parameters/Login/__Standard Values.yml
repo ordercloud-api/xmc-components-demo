@@ -1,0 +1,31 @@
+﻿---
+ID: "d9bb26fc-1d4d-44c9-b24f-77a0105ab92e"
+Parent: "707d0157-6f18-4bb6-97cc-ff6e395894b9"
+Template: "707d0157-6f18-4bb6-97cc-ff6e395894b9"
+Path: /sitecore/templates/Feature/OrderCloud/Rendering Parameters/Login/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230612T144245Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\nQ2esi04V0
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nQ2esi04V0
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2a3b9d05-c7d2-42b8-adc4-8d9a09dc65c7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\George Haeger
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230814T192351Z

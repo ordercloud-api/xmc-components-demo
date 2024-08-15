@@ -1,0 +1,47 @@
+﻿---
+ID: "dbb65264-c395-46e8-a01a-09dc13a47240"
+Parent: "b224e8e1-1204-4f24-9df1-237558000c04"
+Template: "fcc6a53f-c939-4f54-94c4-90bbf8e7627b"
+Path: "/sitecore/content/Order-Cloud-Buyer-Business/Play-Marketplace/Data/Featured Products/Desktop Computer Products"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230807T155159Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{C55B483C-EA7F-4E76-A066-985F7D9396CA}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\George Haeger
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\George Haeger
+    - ID: "785a7c64-d596-4b69-bfe8-a2eb3e330930"
+      Hint: FeatureSelector
+      Value: desktop
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "12caedb5-d744-44f8-9f17-cc8d80d26d57"
+    - ID: "94433b78-e748-40e8-838c-39fef4df7751"
+      Hint: Title
+      Value: Featured Products
+    - ID: "ae59d89c-ab7a-4d4a-bf29-aac30de2cf3e"
+      Hint: FeaturedType
+      Value: Search Term
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\George Haeger
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240202T221316Z

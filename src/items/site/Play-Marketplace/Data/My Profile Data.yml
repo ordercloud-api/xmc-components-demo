@@ -1,0 +1,56 @@
+﻿---
+ID: "94c27864-c3f2-4c11-8c5d-a2ba08761ed1"
+Parent: "b196712d-2f76-410b-96db-58a96fbc3dc9"
+Template: "a8d6adc3-f86b-42fd-a965-ffa3d1bbdc5e"
+Path: "/sitecore/content/Order-Cloud-Buyer-Business/Play-Marketplace/Data/My Profile Data"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0110b89c-559a-4ee3-b35d-96ec97f1103c"
+      Hint: LogOutTitle
+      Value: Testing LogOut Title
+    - ID: "08c113c9-92ba-44ea-9ce6-b1c8ee2226b5"
+      Hint: LoginTitle
+      Value: Testing Login Title
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230815T143915Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{C55B483C-EA7F-4E76-A066-985F7D9396CA}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\George Haeger
+    - ID: "584edffc-da97-4ca1-ade8-abeb0809be37"
+      Hint: MyProfileCallToAction
+      Value: |
+        <link class="" querystring="" id="{6BDD63A9-D8DA-4B78-804B-4EA16AAD5232}" anchor="" target="" title="My profile" linktype="internal" text="My profile" url="/Order-Cloud-Buyer-Business/Play-Marketplace/Home/my-profile" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\George Haeger
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "99a1a78a-ff4d-4a99-a4bb-c2c33f26d444"
+    - ID: "a107444f-9ccb-44cd-a2c4-37a00c62f393"
+      Hint: LogOutCallToAction
+      Value: |
+        <link class="" querystring="" id="{86FFAEF6-F4F8-49A7-9BF4-1F12CA0EAFA1}" anchor="" target="" title="Member signout" linktype="internal" text="Member signout" url="/Order-Cloud-Buyer-Business/Play-Marketplace/Home/logout" />
+    - ID: "b2ea0f40-2c02-4fa7-8ed5-65d75c72ee38"
+      Hint: LoginCallToAction
+      Value: |
+        <link class="" querystring="" id="{A54AFE7B-4FC1-4DE7-9BED-D9E261C8E7E3}" anchor="" target="" title="Member signin" linktype="internal" text="Member signin" url="/Order-Cloud-Buyer-Business/Play-Marketplace/Home/login" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\George Haeger
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240202T181807Z

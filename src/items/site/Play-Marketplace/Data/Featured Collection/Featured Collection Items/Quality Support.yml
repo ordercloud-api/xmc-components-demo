@@ -1,0 +1,41 @@
+﻿---
+ID: "eaa89680-058c-4a51-9715-0b507287fcd4"
+Parent: "753735e0-6535-41cf-a3da-7b3d1aacc002"
+Template: "ed88eb72-c9e1-4fd2-aee0-7a56190ffacc"
+Path: "/sitecore/content/Order-Cloud-Buyer-Business/Play-Marketplace/Data/Featured Collection/Featured Collection Items/Quality Support"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230824T205137Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\George Haeger
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\George Haeger
+    - ID: "662c420e-c242-4808-9339-f149dce42cad"
+      Hint: Title
+      Value: Quality Support
+    - ID: "7e0f69e6-d96c-465b-b17d-640c26c7475e"
+      Hint: Subhead
+      Value: 24/7 online support.
+    - ID: "888b5487-aaec-4d5d-84a0-a9399bd587f6"
+      Hint: Image
+      Value: |
+        <image mediaid="{988DBB16-3A84-49F6-829B-BA83FFD3AB5E}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ca643f88-92eb-4110-ae78-1cf34011b6a6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\George Haeger
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240202T181701Z

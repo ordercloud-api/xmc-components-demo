@@ -1,0 +1,124 @@
+﻿---
+ID: "e4791781-0e79-4217-ba7a-c3c57f1ea409"
+Parent: "9b7cbcce-7ced-44e2-8fed-b952341f1143"
+Template: "ec494725-c89d-488c-86fe-252a08b53d01"
+Path: "/sitecore/content/Order-Cloud-Buyer-Business/Play-Marketplace/Home/shopping-cart"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{2A283111-A54E-4EF8-A8DB-DEE3B86AE36A}" />
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{F558BEC9-C602-4D7A-B9A1-D0411C946EA4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{448B1776-B48F-4FB2-BA2A-A6E50E951540}"
+              p:before="*"
+              s:ds="ce646a29-1bf5-4a05-ae6c-da887bb4895d"
+              s:id="{A6F1DD62-C504-4B07-9467-729FCCFE773E}"
+              s:pt="personalizationTest"
+              s:par="CacheClearingBehavior=Clear%20on%20publish&amp;CSSStyles"
+              s:ph="headless-main">
+              <rls>
+                <ruleset
+                  s:pet="true">
+                  <rule
+                    uid="{01F23C8C-527F-492B-8F75-57E6BAFCA2BA}"
+                    s:name="050a4e2768a54583ab808afc5d40f43a">
+                    <conditions>
+                      <condition
+                        uid="0E1CB458A59A4DE8B4190544785128AB"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="050a4e2768a54583ab808afc5d40f43a" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{A4B5D476-6B3F-4B1E-90E4-16E91D4FFBB7}"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="ef4ab724-33ce-41e4-acd3-f439fe3042e9" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{644164C4-16A8-4D00-8CE6-B6518C07BBE9}"
+                    s:name="4bed231b84e6489c8c7d0f3cb7e939a5">
+                    <conditions>
+                      <condition
+                        uid="5DEA6FB7563E495E834F274725301C4C"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="4bed231b84e6489c8c7d0f3cb7e939a5" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{15FBEA22-E3FD-495B-9496-558D5CA55B6B}"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="ce646a29-1bf5-4a05-ae6c-da887bb4895d" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{00000000-0000-0000-0000-000000000000}"
+                    s:name="Default">
+                    <conditions>
+                      <condition
+                        uid="AD314F263F2E4348966B71F468DB4DC7"
+                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{4F50595C-C29B-41D9-8F55-33734BC8F349}"
+                        s:id="{25F351A1-712D-45F8-857D-8AD95BB2ACE9}" />
+                    </actions>
+                  </rule>
+                </ruleset>
+              </rls>
+            </r>
+            <r
+              uid="{52DBEF9A-52F1-4E60-A6F7-5AADF329B39D}"
+              p:after="*[1=2]"
+              s:id="{43B5635D-5C1D-4F22-9B01-FB1989BEB1D1}"
+              s:par="GridParameters&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230802T211928Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "Generic-Consumer Shopping Cart"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\George Haeger
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\George Haeger
+    - ID: "7640c657-781a-4fef-8afe-7a9fdf65710f"
+      Hint: Title
+      Value: "Generic-Consumer Shopping Cart"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1a95ee43-179d-494e-aaf6-517855edf1cd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\TwdcCSa9f6
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240813T191049Z

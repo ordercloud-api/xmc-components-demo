@@ -1,0 +1,44 @@
+﻿---
+ID: "ce646a29-1bf5-4a05-ae6c-da887bb4895d"
+Parent: "d14a0679-eabf-46cf-b91a-67417358a9be"
+Template: "49342151-de34-4323-9f5a-3f915edfdfbc"
+Path: "/sitecore/content/Order-Cloud-Buyer-Business/Play-Marketplace/Data/Promo Codes/TAKE15OFF"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01c7b7bd-df00-4c0e-929b-645eea585e3d"
+      Hint: PromoText
+      Value: A personalized promo for you
+    - ID: "239ddd4e-310e-48af-963f-8cdc6177bde0"
+      Hint: PromoCode
+      Value: TAKE15OFF
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240221T140551Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Scott Mulligan
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Scott Mulligan
+    - ID: "6981c07e-2ce8-43ef-adc3-c43a7bf1d873"
+      Hint: PromoDescription
+      Value: "Activated based on your browsing history. Apply during checkout and SAVE!"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "31570087-0514-40c0-bdfd-1c5301f45927"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\TwdcCSa9f6
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240813T192217Z
+    - ID: "e4815fe5-f472-47cc-9226-2fdccec041b9"
+      Hint: BackgroundImage
+      Value: |
+        <image mediaid="{3DF9126F-B4FD-4FFD-B990-5DA6BD2E1CEA}" />

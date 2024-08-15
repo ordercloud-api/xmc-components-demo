@@ -1,0 +1,44 @@
+﻿---
+ID: "03f6fee7-0b68-435b-9f28-d43e173f7ad1"
+Parent: "dd4be2fa-1b53-4b7f-8ce4-47ed7a2285fb"
+Template: "24fd10e0-4778-4921-9875-09a389e63cda"
+Path: "/sitecore/content/Order-Cloud-Buyer-Business/Play-Marketplace/Data/Featured Collection/hp top categories"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1705704d-fde3-416b-9209-c8b0923eace0"
+      Hint: Title
+      Value: Top Categories
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230825T124556Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\George Haeger
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\George Haeger
+    - ID: "7aa97377-6481-4046-bf37-7edb674d560e"
+      Hint: CallToAction
+      Value: |
+        <link class="" querystring="" id="{A9347A3D-5DC3-4F53-AA4C-48F1B470490F}" anchor="" target="" title="View All" linktype="internal" text="View All" url="/Order-Cloud-Buyer-Business/Play-Marketplace/Home/product-lists" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "271cb868-aff9-4894-91ec-9bad64067efd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\George Haeger
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240202T181807Z
+    - ID: "ee279ee1-a95b-4569-918d-e28f29bbd31f"
+      Hint: CollectionItems
+      Value: |
+        {6952432E-CA2C-4CEA-8CF4-2B3CD1799155}
+        {57CE298B-577E-498E-93C2-1500AF8DDD8C}
+        {E1D322B4-3DB7-48E6-980B-CA44AD57086D}

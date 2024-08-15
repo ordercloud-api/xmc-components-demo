@@ -1,0 +1,45 @@
+﻿---
+ID: "f987aeae-e3a9-40ce-8364-564c4099ed15"
+Parent: "b196712d-2f76-410b-96db-58a96fbc3dc9"
+Template: "daa4c46b-1874-40f9-af2b-176f16500286"
+Path: "/sitecore/content/Order-Cloud-Buyer-Business/Play-Marketplace/Data/Favorites Icon Data"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ebc5ec7-73c7-40b2-896a-b824f7e30de8"
+      Hint: CallToAction
+      Value: |
+        <link class="" querystring="" id="{EFE1B5C5-887F-483E-8C1B-B96869B26697}" anchor="" target="" title="My favorites" linktype="internal" text="My favorites" url="/Order-Cloud-Buyer-Business/Play-Marketplace/Home/my-profile/my-favorites" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230815T144018Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{C55B483C-EA7F-4E76-A066-985F7D9396CA}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\George Haeger
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\George Haeger
+    - ID: "650de0cd-cbe9-404c-bb46-91ae30a2906d"
+      Hint: Title
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "df090f63-e6de-494f-aa13-e22a89cf1d43"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\George Haeger
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240202T181807Z

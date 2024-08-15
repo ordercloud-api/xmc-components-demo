@@ -1,0 +1,31 @@
+﻿---
+ID: "8671e3ad-5c58-41ca-a5f0-7e380aecde6a"
+Parent: "a5371968-27c8-405a-858d-a84eded6bb2a"
+Template: "a5371968-27c8-405a-858d-a84eded6bb2a"
+Path: /sitecore/templates/Feature/OrderCloud/Rendering Parameters/AuthenticationPlaceholders/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230531T150826Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\O3rvvRLsLy
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\O3rvvRLsLy
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7ecae713-3f95-46c8-90ce-1c9b7c1079ba"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\O3rvvRLsLy
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230531T165349Z

@@ -1,0 +1,45 @@
+﻿---
+ID: "c38d2252-220f-49a7-a6ab-9bb44ca67c4e"
+Parent: "b196712d-2f76-410b-96db-58a96fbc3dc9"
+Template: "87cbece1-735c-43dd-b904-108d0d2a9ecb"
+Path: "/sitecore/content/Order-Cloud-Buyer-Business/Play-Marketplace/Data/Shopping Cart Icon"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230815T144110Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{C55B483C-EA7F-4E76-A066-985F7D9396CA}"
+    - ID: "50ac50ed-0af0-46a3-b25e-b88ea2d4afed"
+      Hint: CallToAction
+      Value: |
+        <link class="" querystring="" id="{E4791781-0E79-4217-BA7A-C3C57F1EA409}" anchor="" target="" title="Shopping cart" linktype="internal" text="Shopping cart" url="/Order-Cloud-Buyer-Business/Play-Marketplace/Home/shopping-cart" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\George Haeger
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\George Haeger
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1d7d05e5-9898-4ec5-8c0b-b46472c29378"
+    - ID: "aee1317e-7867-44f3-85bf-9dbbb1948648"
+      Hint: Title
+      Value: Test Title
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\George Haeger
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240202T181808Z
